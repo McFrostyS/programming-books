@@ -1,54 +1,31 @@
-# Astro Starter Kit: Basics
+<h1 align="center">Programming Books Library</h1>
+<h3 align="center">Welcome to the Programming Books Library! 📚</h3>
 
-```sh
-npm create astro@latest -- --template basics
-```
+This project is a web application built with Astro, JavaScript, and Tailwind CSS, designed to help you organize and explore a collection of programming books. The primary goal is to create an interactive platform for managing programming resources and enhancing your programming knowledge.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Project Overview:
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+The purpose of this website is to provide a user-friendly interface for:
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+- **Browsing Programming Books**: Explore a curated collection of programming books with detailed information.
 
-## 🚀 Project Structure
+- **Searching and Filtering**: Easily search for specific books or filter them based on programming languages, genres, or authors.
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Book Details**: View comprehensive details about each book, including a brief description, author information, and more.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Technologies Used:
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+<h3 align="left">Languages and Frameworks:</h3>
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+<p align="left">
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/012e0b1acb66024b07c16516d2bb8908127626ed/apps/bestofjs-nextjs/public/logos/astro.dark.svg" alt="Astro" width="40" height="40"/></a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 
-Any static assets, like images, can be placed in the `public/` directory.
+</p>
 
-## 🧞 Commands
+## Getting Started:
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+1. Clone the repository: `git clone https://github.com/McFrostyS/programming-books`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
