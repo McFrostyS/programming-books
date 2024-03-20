@@ -28,3 +28,5 @@ The main objectives of this project include:
 1. Clone the repository: `git clone https://github.com/McFrostyS/programming-books`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
+
+Professor: Miguel Ángel Durán
